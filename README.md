@@ -1,1 +1,1 @@
-# UBC-demo
+# UBC-DEMO
